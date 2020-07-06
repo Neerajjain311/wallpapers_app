@@ -1,6 +1,6 @@
 # Pixel Perfect (Wallpapers App)
 
-Pixel perfect is a simple, easy to use, refreshing wallpaper app built using **Flutter** and **Pexels API** which allows users to exxplore, search and download beautiful wallpapers (updated in regular intervals). 
+Pixel perfect is a simple, easy to use, refreshing wallpaper app built using **Flutter** :heart: and **Pexels API** :camera: which allows users to exxplore, search and download beautiful wallpapers (updated in regular intervals). 
 
 ## Backdrop
 
