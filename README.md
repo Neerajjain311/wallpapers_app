@@ -26,5 +26,5 @@ Was bored and fed up of using existing wallpapers/backgrounds app filled with ad
 ## Screenshots
 
 <p align="center">
-<img src="assets/Screenshot_2020-07-06-11-41-52-412_com.example.wallpapers_app.jpg" alt="Screenshot"/>         <img src="assets/Screenshot_2020-07-06-11-42-59-297_com.example.wallpapers_app.jpg" alt="Screenshot"/>         <img src="assets/Screenshot_2020-07-06-11-44-17-746_com.example.wallpapers_app.jpg" alt="Screenshot"/> 
+<img src="assets/Screenshot_2020-07-06-11-41-52-412_com.example.wallpapers_app.jpg" height="400" alt="Screenshot"/>         <img src="assets/Screenshot_2020-07-06-11-42-59-297_com.example.wallpapers_app.jpg" height="400" alt="Screenshot"/>         <img src="assets/Screenshot_2020-07-06-11-44-17-746_com.example.wallpapers_app.jpg" height="400" alt="Screenshot"/> 
 </p>
