@@ -1,16 +1,15 @@
-# wallpapers_app
+# Pixel Perfect (Wallpapers App)
 
-A new Flutter project.
+Pixel perfect is a simple, easy to use, refreshing wallpaper app built using Flutter and Pexels API.
 
-## Getting Started
+## Backdrop
 
-This project is a starting point for a Flutter application.
+Was bored and fed up of using existing wallpapers/backgrounds app filled with ads, so made an app to explore Flutter and create a simple, yet *fully functional* wallpapers app alongwith download (save in gallery) functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Wallpaper Categories
+- [x] Search Wallpapers
+- [x] Download Image (save to gallery)
+- [x] Curated list of wallpapers
+- [ ] Set wallpaper from app itself 
