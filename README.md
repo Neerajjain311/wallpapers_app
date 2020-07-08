@@ -16,12 +16,10 @@ Was bored and fed up of using existing wallpapers/backgrounds app filled with ad
 
 ## Learnings
 
-'''
 - Flutter Widgets
 - Handling API
 - Handling App Permissions
 - Cache Management
-'''
 
 ## Screenshots
 
